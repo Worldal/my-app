@@ -1,0 +1,4140 @@
+[{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeacd"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "UNIVERSITÉ DE LILLE",
+  "Modalité": "sur place",
+  "Département": 59,
+  "Ville": "LILLE",
+  "Pays": "FRANCE",
+  "Activité": "Éducation"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeace"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DE L'INTÉRIEUR ET DES OUTRE-MERS",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeacf"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DE L'INTÉRIEUR ET DES OUTRE-MERS",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbead0"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "D-CODES",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "NEUILLY-SUR-SEINE",
+  "Pays": "FRANCE",
+  "Activité": "Activités politiques"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbead1"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "D-CODES",
+  "Modalité": "sur pièces",
+  "Département": 92,
+  "Ville": "NEUILLY-SUR-SEINE",
+  "Pays": "FRANCE",
+  "Activité": "Activités politiques"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbead2"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ON AIR",
+  "Modalité": "sur place",
+  "Département": 77,
+  "Ville": "LIEUSAINT",
+  "Pays": "FRANCE",
+  "Activité": "Sport"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbead3"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FONDATION  POUR LA NATURE ET L'HOMME",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "BOULOGNE-BILLANCOURT",
+  "Pays": "FRANCE",
+  "Activité": "Associatif"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbead4"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "SCION DATA AGENCY",
+  "Modalité": "sur audition",
+  "Département": 92,
+  "Ville": "NEUILLY-SUR-SEINE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbead5"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "SIGNATURE INT",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbead6"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "SIGNATURE INT",
+  "Modalité": "sur audition",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbead7"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "IBOO",
+  "Modalité": "sur audition",
+  "Département": 44,
+  "Ville": "NANTES",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbead8"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GENIUSWARE",
+  "Modalité": "sur pièces",
+  "Département": 78,
+  "Ville": "MONTESSON",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbead9"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GENIUSWARE",
+  "Modalité": "sur audition",
+  "Département": 78,
+  "Ville": "MONTESSON",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeada"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "DISTRIX",
+  "Modalité": "en ligne",
+  "Département": 32,
+  "Ville": "TOULOUSE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeadb"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "DISTRIX",
+  "Modalité": "sur pièces",
+  "Département": 31,
+  "Ville": "TOULOUSE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeadc"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FRANCE EDL",
+  "Modalité": "en ligne",
+  "Département": 69,
+  "Ville": "LYON",
+  "Pays": "FRANCE",
+  "Activité": "Immobilier"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeadd"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FRANCE EDL",
+  "Modalité": "en ligne",
+  "Département": 69,
+  "Ville": "LYON",
+  "Pays": "FRANCE",
+  "Activité": "Immobilier"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeade"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "BOUYGUES TELECOM",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Télécommunications"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeadf"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "BOUYGUES TELECOM",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Télécommunications"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeae0"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "BOUYGUES TELECOM",
+  "Modalité": "sur audition",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Télécommunications"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeae1"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ASSISTANCE PUBLIQUE - HOPITAUX DE PARIS",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeae2"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CAISSE NATIONALE D'ALLOCATIONS FAMILIALES",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Social"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeae3"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FONDATION DE COOPÉRATION SCIENTIFIQUE",
+  "Modalité": "sur pièces",
+  "Département": 67,
+  "Ville": "STRASBOURG",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeae4"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FONDATION MÉDITERRANÉE INFECTION",
+  "Modalité": "sur pièces",
+  "Département": 13,
+  "Ville": "MARSEILLE",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeae5"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "VENTE-UNIQUE.COM",
+  "Modalité": "en ligne",
+  "Département": 93,
+  "Ville": "LE PRÉ SAINT-GERVAIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeae6"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "VENTE-UNIQUE.COM",
+  "Modalité": "sur audition",
+  "Département": 93,
+  "Ville": "LE PRÉ SAINT-GERVAIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeae7"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FNAC DIRECT\n FNAC DARTY PARTICIPATIONS ET SERVICES",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeae8"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FNAC DIRECT\n FNAC DARTY PARTICIPATIONS ET SERVICES",
+  "Modalité": "sur place",
+  "Département": 94,
+  "Ville": "IVRY-SUR-SEINE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeae9"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FNAC DIRECT\nFNAC DARTY PARTICIPATIONS ET SERVICES",
+  "Modalité": "sur place",
+  "Département": 94,
+  "Ville": "IVRY-SUR-SEINE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeaea"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "DIGITLABS",
+  "Modalité": "sur audition",
+  "Département": 92,
+  "Ville": "BOULOGNE-BILLANCOURT",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeaeb"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "PROMOTION PICHET",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Immobilier"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeaec"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GOOGLE LLC",
+  "Modalité": "en ligne",
+  "Département": "",
+  "Ville": "MONTAIN VIEW",
+  "Pays": "ÉTATS-UNIS",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeaed"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GOOGLE LLC",
+  "Modalité": "sur pièces",
+  "Département": "",
+  "Ville": "MONTAIN VIEW",
+  "Pays": "ÉTATS-UNIS",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeaee"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ATLASFORMEN",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeaef"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ATLASFORMEN",
+  "Modalité": "sur audition",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeaf0"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "PARTICULIER",
+  "Modalité": "en ligne",
+  "Département": 63,
+  "Ville": "ÉGLISENEUVE-PRÈS-BILLOM",
+  "Pays": "FRANCE",
+  "Activité": "Particulier"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeaf1"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ELYZE",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Activités politiques"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeaf2"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ELYZE",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Activités politiques"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeaf3"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ONEPLUS",
+  "Modalité": "en ligne",
+  "Département": "",
+  "Ville": "SHENZEN",
+  "Pays": "CHINE",
+  "Activité": "Télécommunications"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeaf4"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ONEPLUS TECHNOLOGY CO",
+  "Modalité": "sur pièces",
+  "Département": "",
+  "Ville": "SHENZEN",
+  "Pays": "CHINE",
+  "Activité": "Télécommunications"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeaf5"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "OPLUS MOBILETECH UK LIMITED",
+  "Modalité": "sur pièces",
+  "Département": "",
+  "Ville": "LONDRES",
+  "Pays": "ROYAUME-UNI",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeaf6"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "COMMUNE DE VERNOUILLET",
+  "Modalité": "sur place",
+  "Département": 78,
+  "Ville": "VERNOUILLET",
+  "Pays": "FRANCE",
+  "Activité": "Collectivités territoriales"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeaf7"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "COMMUNE DE VERNEUIL-SUR-SEINE",
+  "Modalité": "sur place",
+  "Département": 78,
+  "Ville": "VERNEUIL-SUR-SEINE",
+  "Pays": "FRANCE",
+  "Activité": "Collectivités territoriales"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeaf8"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "RAKUTEN",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeaf9"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "RAKUTEN",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeafa"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "RAKUTEN",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeafb"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "RAKUTEN",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeafc"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "YOUNITED",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Banque"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeafd"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "YOUNITED",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Banque"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeafe"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ASSOCIATION REVAV",
+  "Modalité": "sur audition",
+  "Département": 93,
+  "Ville": "NEUILLY PLAISANCE",
+  "Pays": "FRANCE",
+  "Activité": "Associatif"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeaff"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "VO2 MEDICAL",
+  "Modalité": "sur audition",
+  "Département": 31,
+  "Ville": "PINS-JUSTARET",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb00"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ASSOCIATION FRANÇAISE CONTRE LES MYOPATHIES",
+  "Modalité": "sur place",
+  "Département": 91,
+  "Ville": "ÉVRY COURCOURONNES",
+  "Pays": "FRANCE",
+  "Activité": "Associatif"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb01"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "DIRECTION NATIONALE DU RENSEIGNEMENT ET DES ENQUÊTES DOUANIÈRES",
+  "Modalité": "sur place",
+  "Département": 94,
+  "Ville": "IVRY-SUR-SEINE",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb02"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "M2M ORGANISATION",
+  "Modalité": "sur place",
+  "Département": 52,
+  "Ville": "LANGRES",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb03"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "M2M ORGANISATION",
+  "Modalité": "sur place",
+  "Département": 52,
+  "Ville": "CHAUMONT",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb04"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "TRANSPORTS DISTRIBUTION LOGISTIQUE",
+  "Modalité": "en ligne",
+  "Département": 95,
+  "Ville": "VILLERON",
+  "Pays": "FRANCE",
+  "Activité": "Transports"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb05"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "TRANSPORTS DISTRIBUTION LOGISTIQUE",
+  "Modalité": "sur audition",
+  "Département": 95,
+  "Ville": "VILLERON",
+  "Pays": "FRANCE",
+  "Activité": "Transports"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb06"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "TEMPLIERS SECURITE",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Travail"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb07"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "RECUP'39",
+  "Modalité": "sur place",
+  "Département": 39,
+  "Ville": "SAINT-CLAUDE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb08"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "AFFINIS",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb09"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ESL ET NETWORK HOLDING SA",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb0a"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DE L'INTÉRIEUR ET DES OUTRE-MERS",
+  "Modalité": "sur audition",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb0b"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DE LA JUSTICE",
+  "Modalité": "sur audition",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb0c"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DE LA JUSTICE",
+  "Modalité": "sur pièces",
+  "Département": 20,
+  "Ville": "BASTIA",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb0d"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DE LA JUSTICE",
+  "Modalité": "sur pièces",
+  "Département": 97,
+  "Ville": "MAMOUDZOU",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb0e"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DE LA JUSTICE",
+  "Modalité": "sur pièces",
+  "Département": 93,
+  "Ville": "BOBIGNY",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb0f"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DE LA JUSTICE",
+  "Modalité": "sur pièces",
+  "Département": 92,
+  "Ville": "NANTERRE",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb10"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DE LA JUSTICE",
+  "Modalité": "sur pièces",
+  "Département": 31,
+  "Ville": "SAINT-GAUDENS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb11"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "COMMUNE DE MAINCY",
+  "Modalité": "sur place",
+  "Département": 77,
+  "Ville": "MAINCY",
+  "Pays": "FRANCE",
+  "Activité": "Collectivités territoriales"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb12"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "INSTITUT NATIONAL DE LA STATISTIQUE ET DES ÉTUDES ÉCONOMIQUES",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "MONTROUGE",
+  "Pays": "FRANCE",
+  "Activité": "Statistiques et enquêtes publiques"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb13"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DE L’ÉDUCATION NATIONALE, DE LA JEUNESSE ET DES SPORTS",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb14"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DE LA CULTURE",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb15"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DE LA TRANSITION ÉCOLOGIQUE",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb16"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DU TRAVAIL, DE L’EMPLOI ET DE L’INSERTION",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb17"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DE L'EUROPE ET DES AFFAIRES ÉTRANGÈRES",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb18"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "AGAPHONE SAS",
+  "Modalité": "sur place",
+  "Département": 14,
+  "Ville": "CABOURG",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb19"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "OGEC LA JOLIVERIE",
+  "Modalité": "sur place",
+  "Département": 44,
+  "Ville": "SAINT-SEBASTIEN-SUR-LOIRE",
+  "Pays": "FRANCE",
+  "Activité": "Éducation"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb1a"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LHA DEVELOPPEMENT",
+  "Modalité": "sur place",
+  "Département": 71,
+  "Ville": "SAINT-MARCEL",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb1b"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "PLURIMEDIA",
+  "Modalité": "sur place",
+  "Département": 67,
+  "Ville": "SCHILTIGHEIM",
+  "Pays": "FRANCE",
+  "Activité": "Presse"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb1c"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "DE PARTICULIER À PARTICULIER",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Immobilier"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb1d"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "DE PARTICULIER À PARTICULIER",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Immobilier"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb1e"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FOYER DE CACHAN",
+  "Modalité": "sur place",
+  "Département": 94,
+  "Ville": "CACHAN",
+  "Pays": "FRANCE",
+  "Activité": "Associatif"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb1f"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "BASIC FIT II\n BASIC FIT France",
+  "Modalité": "sur place",
+  "Département": 59,
+  "Ville": "VILLENEUVE D'ASCQ",
+  "Pays": "FRANCE",
+  "Activité": "Sport"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb20"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "BASIC FIT II",
+  "Modalité": "sur place",
+  "Département": 87,
+  "Ville": "LIMOGES",
+  "Pays": "FRANCE",
+  "Activité": "Sport"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb21"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "BASIC FIT II",
+  "Modalité": "sur place",
+  "Département": 87,
+  "Ville": "LIMOGES",
+  "Pays": "FRANCE",
+  "Activité": "Sport"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb22"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "SNCF CONNECT",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Transports"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb23"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "SNCF CONNECT",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Transports"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb24"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "SNCF CONNECT",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "NANTES",
+  "Pays": "FRANCE",
+  "Activité": "Transports"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb25"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "SNCF CONNECT",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "NANTES",
+  "Pays": "FRANCE",
+  "Activité": "Transports"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb26"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "RELÈVE SERVICE PLUS",
+  "Modalité": "sur place",
+  "Département": 78,
+  "Ville": "MONTIGNY-LE-BRETONNEUX",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb27"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CAISSE NATIONALE DE L'ASSURANCE MALADIE",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb28"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LES TULIPIERS",
+  "Modalité": "sur place",
+  "Département": 31,
+  "Ville": "COLOMIERS",
+  "Pays": "FRANCE",
+  "Activité": "Immobilier"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb29"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LES TULIPIERS",
+  "Modalité": "sur pièces",
+  "Département": 31,
+  "Ville": "COLOMIERS",
+  "Pays": "FRANCE",
+  "Activité": "Immobilier"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb2a"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ADIC",
+  "Modalité": "sur place",
+  "Département": 30,
+  "Ville": "UZÈS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb2b"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LINKEDIN",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb2c"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LINKEDIN",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb2d"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LINKEDIN",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb2e"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "AXA FRANCE IARD",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Assurance"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb2f"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CALOGA",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "MALAKOFF",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb30"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CALOGA",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "MALAKOFF",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb31"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "COZY CLOUD",
+  "Modalité": "en ligne",
+  "Département": 92,
+  "Ville": "SURESNES",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb32"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "COZY CLOUD",
+  "Modalité": "sur audition",
+  "Département": 92,
+  "Ville": "SURESNES",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb33"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "TAGADAMEDIA",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb34"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "TAGADAMEDIA",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb35"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "TAGADAMEDIA",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb36"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CARREVOLUTIS",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb37"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CARREVOLUTIS",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb38"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CARTÉGIE",
+  "Modalité": "sur place",
+  "Département": 33,
+  "Ville": "BRUGES",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb39"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CARTÉGIE",
+  "Modalité": "sur place",
+  "Département": 33,
+  "Ville": "BRUGES",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb3a"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LIPSKY MEDIA",
+  "Modalité": "sur audition",
+  "Département": 92,
+  "Ville": "NEUILLY-SUR-SEINE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb3b"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ASSOCIATION DIOCÉSAINE DE NICE\nÉGLISE SAINT PIERRE D'ARÈNE",
+  "Modalité": "sur place",
+  "Département": 6,
+  "Ville": "NICE",
+  "Pays": "FRANCE",
+  "Activité": "Associatif"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb3c"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GAMELOFT",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Jeux"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb3d"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GAMELOFT",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Jeux"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb3e"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GAMELOFT",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Jeux"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb3f"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "IPECA PREVOYANCE",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb40"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CENTRE HOSPITALIER RÉGIONAL DE MARSEILLE\n (ASSISTANCE PUBLIQUE - HOPITAUX MARSEILLE)",
+  "Modalité": "sur place",
+  "Département": 13,
+  "Ville": "MARSEILLE",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb41"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CENTRE HOSPITALIER RÉGIONAL DE MARSEILLE\n (ASSISTANCE PUBLIQUE - HOPITAUX MARSEILLE)",
+  "Modalité": "sur place",
+  "Département": 13,
+  "Ville": "MARSEILLE",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb42"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MEDI-SERVICES",
+  "Modalité": "sur place",
+  "Département": 95,
+  "Ville": "FRANCONVILLE",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb43"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FACEBOOK\n (META PLATFORMS IRELAND LIMITED)",
+  "Modalité": "en ligne",
+  "Département": "",
+  "Ville": "DUBLIN",
+  "Pays": "IRELAND",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb44"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "RECONQUÊTE!",
+  "Modalité": "sur audition",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Activités politiques"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb45"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "RECONQUÊTE!",
+  "Modalité": "sur audition",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Activités politiques"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb46"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "RECONQUÊTE!",
+  "Modalité": "sur audition",
+  "Département": 76,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Activités politiques"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb47"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MAUD DERMO ESTHETIC AIX",
+  "Modalité": "sur place",
+  "Département": 13,
+  "Ville": "AIX-EN-PROVENCE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb48"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "PHARMACIE BODART",
+  "Modalité": "sur place",
+  "Département": 59,
+  "Ville": "LILLE",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb49"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GPF CLAEYS",
+  "Modalité": "sur place",
+  "Département": 59,
+  "Ville": "LILLE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb4a"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GRANDE PHARMACIE DE WAZEMMES",
+  "Modalité": "sur place",
+  "Département": 60,
+  "Ville": "LILLE",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb4b"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "REWORLD MEDIA",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "BOULOGNE-BILLANCOURT",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb4c"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "REWORLD MEDIA",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "BOULOGNE-BILLANCOURT",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb4d"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "APLIM",
+  "Modalité": "sur place",
+  "Département": 73,
+  "Ville": "SAINT-JEOIRE-PRIEURÉ",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb4e"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "VIDEO PLUS",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "COURBEVOIE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb4f"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "TWITCH INTERACTIVE",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Jeux"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb50"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CRÉDIT LYONNAIS",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Banque"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb51"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LAONDIS",
+  "Modalité": "sur place",
+  "Département": 2,
+  "Ville": "CHAMBRY",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb52"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LAONDIS",
+  "Modalité": "en ligne",
+  "Département": 2,
+  "Ville": "CHAMBRY",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb53"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FRET VITE",
+  "Modalité": "sur place",
+  "Département": 38,
+  "Ville": "NOYAREY",
+  "Pays": "FRANCE",
+  "Activité": "Transports"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb54"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "BANQUE COURTOIS",
+  "Modalité": "sur place",
+  "Département": 31,
+  "Ville": "TOULOUSE",
+  "Pays": "FRANCE",
+  "Activité": "Banque"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb55"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "BRODERIE DE LOMAGNE",
+  "Modalité": "sur place",
+  "Département": 33,
+  "Ville": "AMBÈS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb56"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ECONOCOM FRANCE",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "PUTEAUX",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb57"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "IDCAPT",
+  "Modalité": "sur place",
+  "Département": 84,
+  "Ville": "AVIGNON",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb58"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "SUEZ EAU FRANCE",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb59"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "TELEPERFORMANCE",
+  "Modalité": "sur audition",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb5a"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "TELEPERFORMANCE",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb5b"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "TELEPERFORMANCE",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb5c"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "SOCREDIT",
+  "Modalité": "en ligne",
+  "Département": 93,
+  "Ville": "TREMBLAY-EN-FRANCE",
+  "Pays": "FRANCE",
+  "Activité": "Banque"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb5d"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "SOCREDIT",
+  "Modalité": "sur place",
+  "Département": 93,
+  "Ville": "TREMBLAY-EN-FRANCE",
+  "Pays": "FRANCE",
+  "Activité": "Banque"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb5e"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MEDIA SPECK",
+  "Modalité": "sur audition",
+  "Département": 95,
+  "Ville": "SARCELLES",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb5f"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ACCOMPAGNIA'DOM",
+  "Modalité": "sur place",
+  "Département": 6,
+  "Ville": "NICE",
+  "Pays": "FRANCE",
+  "Activité": "Social"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb60"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "AD SENIORS CENTRALE\nADSHNICE",
+  "Modalité": "sur place",
+  "Département": 6,
+  "Ville": "NICE",
+  "Pays": "FRANCE",
+  "Activité": "Social"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb61"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LE HUFFINGTON POST",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Presse"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb62"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LE HUFFINGTON POST",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Presse"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb63"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "COMMUNE DE CHÂTEAUDUN",
+  "Modalité": "sur place",
+  "Département": 28,
+  "Ville": "CHÂTEAUDUN",
+  "Pays": "FRANCE",
+  "Activité": "Collectivités territoriales"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb64"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "TWELVE APP",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Télécommunications"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb65"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "WEWARD",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb66"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "WEWARD",
+  "Modalité": "sur audition",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb67"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "PARTI SOCIALISTE",
+  "Modalité": "en ligne",
+  "Département": 94,
+  "Ville": "IVRY-SUR-SEINE",
+  "Pays": "FRANCE",
+  "Activité": "Activités politiques"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb68"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FÉDÉRATION DE PARIS DU PARTI SOCIALISTE",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Activités politiques"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb69"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "COMMUNE DE SAINT-AVOLD",
+  "Modalité": "sur pièces",
+  "Département": 57,
+  "Ville": "SAINT-AVOLD",
+  "Pays": "FRANCE",
+  "Activité": "Collectivités territoriales"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb6a"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "HOPPS GROUP",
+  "Modalité": "sur place",
+  "Département": 13,
+  "Ville": "AIX-EN-PROVENCE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb6b"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "HOPPS GROUP",
+  "Modalité": "sur place",
+  "Département": 13,
+  "Ville": "AIX-EN-PROVENCE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb6c"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "TIKTOK",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Télécommunications"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb6d"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FINTECTURE",
+  "Modalité": "en ligne",
+  "Département": 94,
+  "Ville": "SAINT-MANDÉ",
+  "Pays": "FRANCE",
+  "Activité": "Banque"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb6e"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FINTECTURE",
+  "Modalité": "sur pièces",
+  "Département": 94,
+  "Ville": "SAINT-MANDÉ",
+  "Pays": "FRANCE",
+  "Activité": "Banque"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb6f"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "OFFISANTÉ",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb70"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "UNIBAIL - RODAMCO - WESTFIELD",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb71"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "INSTITUT NATIONAL DE LA SANTÉ ET DE LA RECHERCHE MÉDICALE",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb72"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "DOW JONES & COMPANY, INC.\n(FACTIVA LIMITED)",
+  "Modalité": "sur pièces",
+  "Département": "",
+  "Ville": "LONDRES",
+  "Pays": "ROYAUME-UNI",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb73"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "DIGITAL MEDICAL SUPPLY FRANCE",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb74"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "DIGITAL MEDICAL SUPPLY FRANCE",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb75"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "KASPR",
+  "Modalité": "sur audition",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb76"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "NEWLAND",
+  "Modalité": "en ligne",
+  "Département": 78,
+  "Ville": "LE VESINET",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb77"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CITYA IMMOBILIER",
+  "Modalité": "en ligne",
+  "Département": 37,
+  "Ville": "TOURS",
+  "Pays": "FRANCE",
+  "Activité": "Immobilier"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb78"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CITYA IMMOBILIER",
+  "Modalité": "sur place",
+  "Département": 37,
+  "Ville": "TOURS",
+  "Pays": "FRANCE",
+  "Activité": "Immobilier"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb79"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "COTE ENERGY",
+  "Modalité": "en ligne",
+  "Département": 93,
+  "Ville": "AUBERVILLIERS",
+  "Pays": "FRANCE",
+  "Activité": "Énergie"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb7a"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "COTE ENERGY",
+  "Modalité": "sur audition",
+  "Département": 93,
+  "Ville": "AUBERVILLIERS",
+  "Pays": "FRANCE",
+  "Activité": "Énergie"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb7b"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "AWIN SAS",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb7c"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "EXOLIS",
+  "Modalité": "sur place",
+  "Département": 13,
+  "Ville": "MARSEILLE",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb7d"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LGHA AUTO",
+  "Modalité": "en ligne",
+  "Département": 92,
+  "Ville": "NEUILLY-SUR-SEINE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb7e"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LGHA AUTO",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "NEUILLY-SUR-SEINE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb7f"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "WEBRIVAGE",
+  "Modalité": "sur place",
+  "Département": 13,
+  "Ville": "ROUSSET",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb80"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "WEBRIVAGE",
+  "Modalité": "sur place",
+  "Département": 13,
+  "Ville": "ROUSSET",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb81"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CONSORTIUM IMMOBILIER",
+  "Modalité": "sur place",
+  "Département": 34,
+  "Ville": "MONTPELLIER",
+  "Pays": "FRANCE",
+  "Activité": "Immobilier"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb82"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "VOODOO",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Jeux"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb83"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "COMMUNE DE MONTPON - MÉNÉSTEROL",
+  "Modalité": "sur place",
+  "Département": 24,
+  "Ville": "MONTPON-MÉNÉSTEROL",
+  "Pays": "FRANCE",
+  "Activité": "Collectivités territoriales"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb84"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "WIFIRST",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Télécommunications"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb85"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "WIFIRST",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Télécommunications"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb86"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "WTMH",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb87"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "WTMH",
+  "Modalité": "sur audition",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb88"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "BGD",
+  "Modalité": "sur place",
+  "Département": 30,
+  "Ville": "NÎMES",
+  "Pays": "FRANCE",
+  "Activité": "Banque"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb89"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "HUBSTAFF",
+  "Modalité": "sur pièces",
+  "Département": "",
+  "Ville": "FISHERS",
+  "Pays": "ÉTATS-UNIS",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb8a"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CLEVER CONTROL",
+  "Modalité": "sur pièces",
+  "Département": "",
+  "Ville": "MIAMI",
+  "Pays": "ÉTATS-UNIS",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb8b"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CLEVER CONTROL",
+  "Modalité": "en ligne",
+  "Département": "",
+  "Ville": "MIAMI",
+  "Pays": "ÉTATS-UNIS",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb8c"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "TIME DOCTOR",
+  "Modalité": "sur pièces",
+  "Département": "",
+  "Ville": "LAS VEGAS",
+  "Pays": "ÉTATS-UNIS",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb8d"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FRANCE COMPÉTENCES",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "COURBEVOIE",
+  "Pays": "FRANCE",
+  "Activité": "Éducation"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb8e"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FRANCE COMPÉTENCES",
+  "Modalité": "sur pièces",
+  "Département": 92,
+  "Ville": "COURBEVOIE",
+  "Pays": "FRANCE",
+  "Activité": "Éducation"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb8f"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "DIRECTION GÉNÉRALE DES DOUANES ET DES DROITS INDIRECTS",
+  "Modalité": "sur place",
+  "Département": 44,
+  "Ville": "NANTES",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb90"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "SAS SMART LOBBYING",
+  "Modalité": "sur audition",
+  "Département": 27,
+  "Ville": "LERY",
+  "Pays": "FRANCE",
+  "Activité": "Activités politiques"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb91"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FYM",
+  "Modalité": "sur place",
+  "Département": 84,
+  "Ville": "SAINT-SATURNIN-LÈS-AVIGNON",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb92"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "M GASTRONOMIE",
+  "Modalité": "sur place",
+  "Département": 34,
+  "Ville": "MONTPELLIER",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb93"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ASSOCIATION ENTRAIDE",
+  "Modalité": "sur place",
+  "Département": 13,
+  "Ville": "MARSEILLE",
+  "Pays": "FRANCE",
+  "Activité": "Associatif"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb94"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DE LA JUSTICE",
+  "Modalité": "sur audition",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb95"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DE LA JUSTICE",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb96"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DE LA JUSTICE",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb97"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "SOLOCAL",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "BOULOGNE-BILLANCOURT",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb98"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "SOLOCAL",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "BOULOGNE-BILLANCOURT",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb99"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "BOUCHERIE DU BALTARD",
+  "Modalité": "sur place",
+  "Département": 94,
+  "Ville": "NOGENT-SUR-MARNE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb9a"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "IMMOBILIÈRE EUROPE SÈVRES",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Immobilier"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb9b"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GMF ASSURANCES",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "LEVALLOIS-PERRET",
+  "Pays": "FRANCE",
+  "Activité": "Assurance"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb9c"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GMF ASSURANCES",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Assurance"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb9d"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "COMMUNE DE CHARVIEU-CHAVAGNEU",
+  "Modalité": "sur place",
+  "Département": 38,
+  "Ville": "CHARVIEU-CHAVAGNEU",
+  "Pays": "FRANCE",
+  "Activité": "Collectivités territoriales"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb9e"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ECHO ANALYTICS",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeb9f"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ECHO ANALYTICS",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeba0"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "PRESTALEADS",
+  "Modalité": "sur place",
+  "Département": 35,
+  "Ville": "RENNES",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeba1"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "PRESTALEADS",
+  "Modalité": "sur audition",
+  "Département": 35,
+  "Ville": "RENNES",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeba2"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "BAYER HEALTHCARE SAS",
+  "Modalité": "sur place",
+  "Département": 59,
+  "Ville": "LOOS",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeba3"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "PHENIX SECURITE SARL",
+  "Modalité": "sur place",
+  "Département": 68,
+  "Ville": "MULHOUSE",
+  "Pays": "FRANCE",
+  "Activité": "Travail"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeba4"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LEROY MERLIN GSB",
+  "Modalité": "sur place",
+  "Département": 59,
+  "Ville": "LEZENNES",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeba5"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DES SOLIDARITES ET DE LA SANTE\nMINISTÈRE DE L'INTÉRIEUR ET DES OUTRE-MERS",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeba6"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LA POSTE",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeba7"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LA POSTE",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeba8"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LA POSTE",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbeba9"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "COMMUNE D'ORLÉANS",
+  "Modalité": "sur place",
+  "Département": 45,
+  "Ville": "ORLÉANS",
+  "Pays": "FRANCE",
+  "Activité": "Collectivités territoriales"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebaa"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GIE CENTRE COMMERCIAL LONGCHAMPS",
+  "Modalité": "sur place",
+  "Département": 35,
+  "Ville": "RENNES",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebab"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "DÉPARTEMENT DU NORD",
+  "Modalité": "sur audition",
+  "Département": 59,
+  "Ville": "LILLE",
+  "Pays": "FRANCE",
+  "Activité": "Collectivités territoriales"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebac"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "SOCULTUR",
+  "Modalité": "en ligne",
+  "Département": 33,
+  "Ville": "MÉRIGNAC",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebad"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "SOCULTUR",
+  "Modalité": "sur place",
+  "Département": 33,
+  "Ville": "MÉRIGNAC",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebae"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "SOCULTUR",
+  "Modalité": "sur place",
+  "Département": 33,
+  "Ville": "MÉRIGNAC",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebaf"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "SOCULTUR",
+  "Modalité": "en ligne",
+  "Département": 33,
+  "Ville": "MÉRIGNAC",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebb0"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "DIGITAL SQUAD",
+  "Modalité": "en ligne",
+  "Département": 69,
+  "Ville": "LYON",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebb1"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "DIGITAL SQUAD",
+  "Modalité": "sur place",
+  "Département": 69,
+  "Ville": "LYON",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebb2"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "DIGITAL SQUAD",
+  "Modalité": "sur place",
+  "Département": 69,
+  "Ville": "LYON",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebb3"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "THOM",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebb4"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "THOM",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebb5"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MISTER AUTO",
+  "Modalité": "en ligne",
+  "Département": 69,
+  "Ville": "VILLEURBANNE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebb6"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MISTER AUTO",
+  "Modalité": "sur place",
+  "Département": 69,
+  "Ville": "VILLEURBANNE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebb7"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MICROSOFT IRELAND OPERATIONS LIMITED",
+  "Modalité": "en ligne",
+  "Département": "",
+  "Ville": "DUBLIN",
+  "Pays": "IRELAND",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebb8"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MICROSOFT IRELAND OPERATIONS LIMITED",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "ISSY-LES-MOULINEAUX",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebb9"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "PIGMA",
+  "Modalité": "sur place",
+  "Département": 33,
+  "Ville": "POMPIGNAC",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebba"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "lifeclubapp.fr",
+  "Modalité": "en ligne",
+  "Département": 13,
+  "Ville": "MARSEILLE",
+  "Pays": "FRANCE",
+  "Activité": "Sport"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebbb"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LA POSTE",
+  "Modalité": "sur place",
+  "Département": 62,
+  "Ville": "CALAIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebbc"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GROUPE BLACK TIGER",
+  "Modalité": "sur audition",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebbd"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "OPENDOO",
+  "Modalité": "en ligne",
+  "Département": 34,
+  "Ville": "SAINT-GELY-DU-FESC",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebbe"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "OPENDOO",
+  "Modalité": "sur audition",
+  "Département": 34,
+  "Ville": "SAINT-GELY-DU-FESC",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebbf"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ARKÉA DIRECT BANK",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "PUTEAUX",
+  "Pays": "FRANCE",
+  "Activité": "Banque"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebc0"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "AXA BANQUE",
+  "Modalité": "sur place",
+  "Département": 94,
+  "Ville": "FONTENAY-SOUS-BOIS",
+  "Pays": "FRANCE",
+  "Activité": "Banque"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebc1"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "BOURSORAMA BANQUE",
+  "Modalité": "sur place",
+  "Département": 92,
+  "Ville": "BOULOGNE-BILLANCOURT",
+  "Pays": "FRANCE",
+  "Activité": "Banque"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebc2"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "BNP PARIBAS",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Banque"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebc3"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CASH FLOW POSITIF",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebc4"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CASH FLOW POSITIF",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebc5"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "UNIVERSITÉ D'ÉVRY VAL D'ESSONNE",
+  "Modalité": "sur audition",
+  "Département": 91,
+  "Ville": "ÉVRY COURCOURONNES",
+  "Pays": "FRANCE",
+  "Activité": "Éducation"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebc6"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "NORDCALL",
+  "Modalité": "sur place",
+  "Département": 59,
+  "Ville": "MARCQ-EN-BAROEUIL",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebc7"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GROUPE LEXIMPACT",
+  "Modalité": "en ligne",
+  "Département": 69,
+  "Ville": "LYON",
+  "Pays": "FRANCE",
+  "Activité": "Immobilier"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebc8"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GROUPE LEXIMPACT",
+  "Modalité": "sur place",
+  "Département": 69,
+  "Ville": "LYON",
+  "Pays": "FRANCE",
+  "Activité": "Immobilier"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebc9"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "AUCHAN SUPERMARCHÉ",
+  "Modalité": "sur place",
+  "Département": 78,
+  "Ville": "CONFLANS SAINTE HONORINE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebca"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "PATISSERIE E.LADURÉE",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebcb"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "INETUM",
+  "Modalité": "sur place",
+  "Département": 93,
+  "Ville": "SAINT-OUEN-SUR-SEINE",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebcc"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GIP INNOVATION E-SANTÉ SUD",
+  "Modalité": "sur place",
+  "Département": 83,
+  "Ville": "HYÈRES",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebcd"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "LA BANQUE POSTALE",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Banque"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebce"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GROUPE CIC",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Banque"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebcf"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "BANQUE FRANÇAISE MUTUALISTE",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Banque"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebd0"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GOOGLE IRELAND LIMITED",
+  "Modalité": "en ligne",
+  "Département": "",
+  "Ville": "MONTAIN VIEW",
+  "Pays": "ÉTATS-UNIS",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebd1"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GOOGLE IRELAND LIMITED",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebd2"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GOOGLE IRELAND LIMITED",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebd3"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ASSOCIATION RÊVES PARTAGÉS",
+  "Modalité": "en ligne",
+  "Département": 78,
+  "Ville": "MUREAUX",
+  "Pays": "FRANCE",
+  "Activité": "Associatif"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebd4"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ASSOCIATION RÊVES PARTAGÉS",
+  "Modalité": "sur pièces",
+  "Département": 78,
+  "Ville": "MORAINVILLIERS",
+  "Pays": "FRANCE",
+  "Activité": "Associatif"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebd5"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "YACARTER",
+  "Modalité": "en ligne",
+  "Département": 94,
+  "Ville": "THIAIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebd6"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "YACARTER",
+  "Modalité": "sur place",
+  "Département": 59,
+  "Ville": "VILLENEUVE D'ASCQ",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebd7"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ROUGE BORDEAUX",
+  "Modalité": "sur place",
+  "Département": 33,
+  "Ville": "BORDEAUX",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebd8"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "leboncoin.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebd9"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "francetvinfo.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Culture"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebda"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "sfr.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Télécommunications"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebdb"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "boulanger.com",
+  "Modalité": "en ligne",
+  "Département": 59,
+  "Ville": "LESQUIN",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebdc"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "free.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Télécommunications"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebdd"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "veepee.fr",
+  "Modalité": "en ligne",
+  "Département": 93,
+  "Ville": "SAINT-DENIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebde"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "bouyguestelecom.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Télécommunications"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebdf"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "auchan.fr",
+  "Modalité": "en ligne",
+  "Département": 59,
+  "Ville": "VILLENEUVE D'ASCQ",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebe0"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "pole-emploi.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Travail"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebe1"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "showroomprive.com",
+  "Modalité": "en ligne",
+  "Département": 93,
+  "Ville": "SAINT-DENIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebe2"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "mondialrelay.fr",
+  "Modalité": "en ligne",
+  "Département": 59,
+  "Ville": "VILLENEUVE D'ASCQ",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebe3"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "intermarche.com",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebe4"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "chronopost.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebe5"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "hitek.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebe6"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "medisite.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebe7"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "largus.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebe8"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "lacentrale.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebe9"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "paruvendu.fr",
+  "Modalité": "en ligne",
+  "Département": 69,
+  "Ville": "LYON",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebea"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "deliveroo.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebeb"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "sosh.fr",
+  "Modalité": "en ligne",
+  "Département": 92,
+  "Ville": "ISSY-LES-MOULINEAUX",
+  "Pays": "FRANCE",
+  "Activité": "Télécommunications"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebec"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "relaiscolis.com",
+  "Modalité": "en ligne",
+  "Département": 94,
+  "Ville": "CRÉTEIL",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebed"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "data.gouv.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebee"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "lassuranceretraite.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Assurance"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebef"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "macif.fr",
+  "Modalité": "en ligne",
+  "Département": 79,
+  "Ville": "NIORT",
+  "Pays": "FRANCE",
+  "Activité": "Assurance"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebf0"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "norauto.fr",
+  "Modalité": "en ligne",
+  "Département": 59,
+  "Ville": "VILLENEUVE D'ASCQ",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebf1"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ovh.com",
+  "Modalité": "en ligne",
+  "Département": 59,
+  "Ville": "ROUBAIX",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebf2"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "laposte.fr/digiposte",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebf3"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "lagranderecre.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebf4"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "mgen.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Assurance"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebf5"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "gammvert.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebf6"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "monoprix.fr",
+  "Modalité": "en ligne",
+  "Département": 92,
+  "Ville": "CLICHY",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebf7"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ubisoft.com",
+  "Modalité": "en ligne",
+  "Département": 94,
+  "Ville": "SAINT-MANDÉ",
+  "Pays": "FRANCE",
+  "Activité": "Jeux"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebf8"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "autoplus.fr",
+  "Modalité": "en ligne",
+  "Département": 92,
+  "Ville": "BAGNEUX",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebf9"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "fr.ulule.com",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebfa"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "salto.fr",
+  "Modalité": "en ligne",
+  "Département": 92,
+  "Ville": "BOULOGNE-BILLANCOURT",
+  "Pays": "FRANCE",
+  "Activité": "Culture"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebfb"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "meilleursagents.com",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Immobilier"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebfc"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "matmut.fr",
+  "Modalité": "en ligne",
+  "Département": 76,
+  "Ville": "ROUEN",
+  "Pays": "FRANCE",
+  "Activité": "Assurance"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebfd"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "antai.gouv.fr",
+  "Modalité": "en ligne",
+  "Département": 35,
+  "Ville": "RENNES",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebfe"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "geev.com",
+  "Modalité": "en ligne",
+  "Département": 33,
+  "Ville": "BORDEAUX",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbebff"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "interencheres.com",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec00"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "gensdeconfiance.fr",
+  "Modalité": "en ligne",
+  "Département": 44,
+  "Ville": "NANTES",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec01"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "compte-nickel.fr",
+  "Modalité": "en ligne",
+  "Département": 94,
+  "Ville": "CHARENTON-LE-PONT",
+  "Pays": "FRANCE",
+  "Activité": "Banque"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec02"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "secu-independants.fr",
+  "Modalité": "en ligne",
+  "Département": 93,
+  "Ville": "MONTREUIL",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec03"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "justice.gouv.fr\njustice.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec04"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "etalab.gouv.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec05"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "se-unsa.org",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Social"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec06"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "snes.edu",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Social"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec07"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ligue-cancer.net",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec08"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "cci.fr",
+  "Modalité": "en ligne",
+  "Département": 92,
+  "Ville": "LEVALLOIS-PERRET",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec09"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "france3-regions.francetvinfo.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Culture"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec0a"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "retraitesdeletat.gouv.fr",
+  "Modalité": "en ligne",
+  "Département": 44,
+  "Ville": "NANTES",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec0b"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "etudiant.gouv.fr",
+  "Modalité": "en ligne",
+  "Département": 92,
+  "Ville": "VANVES",
+  "Pays": "FRANCE",
+  "Activité": "Éducation"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec0c"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "certificat-air.gouv.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec0d"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "fonctionpublique-chequesvacances.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Tourisme"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec0e"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "sida-info-service.org",
+  "Modalité": "en ligne",
+  "Département": 93,
+  "Ville": "MONTREUIL",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec0f"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "inrae.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Collectivités territoriales"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec10"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "pre-plainte-en-ligne.gouv.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec11"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "univ-paris8.fr",
+  "Modalité": "en ligne",
+  "Département": 93,
+  "Ville": "SAINT-DENIS",
+  "Pays": "FRANCE",
+  "Activité": "Éducation"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec12"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "eureennormandie.fr",
+  "Modalité": "en ligne",
+  "Département": 27,
+  "Ville": "ÉVREUX",
+  "Pays": "FRANCE",
+  "Activité": "Collectivités territoriales"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec13"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "entreprises.gouv.fr",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec14"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "departement13.fr",
+  "Modalité": "en ligne",
+  "Département": 13,
+  "Ville": "MARSEILLE",
+  "Pays": "FRANCE",
+  "Activité": "Collectivités territoriales"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec15"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "herault.fr",
+  "Modalité": "en ligne",
+  "Département": 34,
+  "Ville": "MONTPELLIER",
+  "Pays": "FRANCE",
+  "Activité": "Collectivités territoriales"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec16"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "bourgognefranchecomte.fr",
+  "Modalité": "en ligne",
+  "Département": 25,
+  "Ville": "BESANCON",
+  "Pays": "FRANCE",
+  "Activité": "Collectivités territoriales"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec17"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "ille-et-vilaine.fr",
+  "Modalité": "en ligne",
+  "Département": 35,
+  "Ville": "RENNES",
+  "Pays": "FRANCE",
+  "Activité": "Collectivités territoriales"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec18"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "unsa.org",
+  "Modalité": "en ligne",
+  "Département": 93,
+  "Ville": "BAGNOLET",
+  "Pays": "FRANCE",
+  "Activité": "Éducation"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec19"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "RETRAVAILLER DANS L'OUEST",
+  "Modalité": "sur place",
+  "Département": 44,
+  "Ville": "NANTES",
+  "Pays": "FRANCE",
+  "Activité": "Travail"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec1a"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "APERAM STAINLESS FRANCE",
+  "Modalité": "sur place",
+  "Département": 93,
+  "Ville": "SAINT-DENIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec1b"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CENTRE HOSPITALIER D'ALÈS-CÉVENNES",
+  "Modalité": "sur place",
+  "Département": 30,
+  "Ville": "ALÈS",
+  "Pays": "FRANCE",
+  "Activité": "Santé"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec1c"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MÉTROPOLE DE LYON",
+  "Modalité": "sur place",
+  "Département": 69,
+  "Ville": "LYON",
+  "Pays": "FRANCE",
+  "Activité": "Collectivités territoriales"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec1d"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "PÉNÉLOPE L'AGENCE",
+  "Modalité": "sur place",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec1e"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "GINEYS SAS",
+  "Modalité": "sur place",
+  "Département": 38,
+  "Ville": "REVENTIN-VAUGRIS",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec1f"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "CAMAIEU INTERNATIONAL",
+  "Modalité": "sur pièces",
+  "Département": 59,
+  "Ville": "ROUBAIX",
+  "Pays": "FRANCE",
+  "Activité": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec20"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "IMMODIAGNOSCTIC.FR",
+  "Modalité": "en ligne",
+  "Département": 13,
+  "Ville": "MARSEILLE",
+  "Pays": "FRANCE",
+  "Activité": "Immobilier"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec21"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "IMMOBILIER.BIGPIGE.COM",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Immobilier"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec22"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DE L'INTÉRIEUR ET DES OUTRE-MERS",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec23"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FÉDÉRATION FRANÇAISE DE SAUVETAGE ET DE SECOURISME",
+  "Modalité": "sur pièces",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec24"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "FÉDÉRATION FRANÇAISE DE SAUVETAGE ET DE SECOURISME",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+},
+{
+  "_id": {
+    "$oid": "65f2fb60b7fa4b397fcbec25"
+  },
+  "Catégorie": "RGPD",
+  "Organisme": "MINISTÈRE DE L'INTÉRIEUR ET DES OUTRE-MERS",
+  "Modalité": "en ligne",
+  "Département": 75,
+  "Ville": "PARIS",
+  "Pays": "FRANCE",
+  "Activité": "Régalien"
+}]

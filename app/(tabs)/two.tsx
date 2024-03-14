@@ -1,12 +1,14 @@
-import { StyleSheet, TextInput } from "react-native";
+import { StyleSheet } from "react-native";
 import React from "react";
 
 import EditScreenInfo from "@/components/EditScreenInfo";
 import { Text, View } from "@/components/Themed";
+import { TextInput } from "react-native-paper";
+import { black } from "react-native-paper/lib/typescript/styles/themes/v2/colors";
 
 export default function TabTwoScreen() {
-  const [text, onChangeText] = React.useState("Useless Text");
-  const [number, onChangeNumber] = React.useState("");
+  const [text, setText] = React.useState("");
+
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Ajouter</Text>
@@ -17,11 +19,29 @@ export default function TabTwoScreen() {
       />
       <Text style={styles.title}>Nom de l'organisme</Text>
       <TextInput
-        style={styles.input}
-        onChangeText={onChangeNumber}
-        value={number}
-        placeholder="CNIL"
-        keyboardType="numeric"
+        label="Catégorie"
+        value={text}
+        onChangeText={(text) => setText(text)}
+      />
+      <TextInput
+        label="Nom de l'orgarnisme"
+        value={text}
+        onChangeText={(text) => setText(text)}
+      />
+      <TextInput
+        label="Modalité"
+        value={text}
+        onChangeText={(text) => setText(text)}
+      />
+      <TextInput
+        label="Nom de l'orgarnisme"
+        value={text}
+        onChangeText={(text) => setText(text)}
+      />
+      <TextInput
+        label="Nom de l'orgarnisme"
+        value={text}
+        onChangeText={(text) => setText(text)}
       />
     </View>
   );
@@ -32,6 +52,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: "center",
     justifyContent: "center",
+    color: "black",
   },
   title: {
     fontSize: 20,
